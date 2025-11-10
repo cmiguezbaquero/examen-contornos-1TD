@@ -4,5 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Fase inicial del proyecto");
         System.out.println("Desarrollando en Materia");
+        System.out.println("Desarrollando Alumno");
+
     }
 }
